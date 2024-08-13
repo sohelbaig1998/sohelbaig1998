@@ -18,10 +18,10 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
   
 ---
 ## 🛠️ My Recent Projects
+- **Litigation Case Management App ([Legistrak](https://apps.apple.com/in/app/legistify/id6504528593))**: Developed a scalable and high-performance mobile app for managing legal cases, incorporating fast API responses and real-time push notifications to enhance case tracking and updates.
 - **Litigation Management System ([Legistrak](https://legistify.com/))**: Optimized and modernized the tech stack, improving the system's performance by 50%.
-- **Litigation Mobile Application**: Designed for efficient handling of legal cases with a highly responsive and scalable mobile API, significantly improving case management and performance.
 - **Web Crawler (Microservice)**: Spearheaded the migration to a microservices architecture, achieving a 90% improvement in system efficiency.
-  
+
 ---
 ## 📫 How to Reach Me
 - **Contact:** 
