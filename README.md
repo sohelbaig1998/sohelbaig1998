@@ -36,7 +36,7 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 I'm always open to exploring new opportunities, especially those involving Python, Django, FastAPI, and scalable backend systems. Feel free to reach out if you have an exciting role or project!
 ---
 ## 📄 Download My Resume
-You can <a href="https://drive.google.com/file/d/1TxO3sEqxx11C6w8_WcUU8PeVAqvPKZfE/view?usp=sharing" target="_blank">download my resume here</a>.
+You can <a href="https://drive.google.com/file/d/1i5KsuxF-P4GaDMPIeV8oVfIxpEAkAyB_/view?usp=sharing" target="_blank">download my resume here</a>.
 ---
 ## 🌐 My GitHub Stats
 [Pinklesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkleshparjapati&show_icons=true&theme=dark)
