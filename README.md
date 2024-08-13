@@ -27,6 +27,7 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 - **Contact:** [7427868337](tel:+917427868337)
 - **LinkedIn:** [Sohel Baig Mirza](https://www.linkedin.com/in/sohel-baig-mirza-847402206/)
 - **GitHub:** [sohelbaig1998](https://github.com/sohelbaig1998)
+
 ---
 ## 💼 Open to Opportunities
 I'm always open to exploring new opportunities, especially those involving Python, Django, FastAPI, and scalable backend systems. Feel free to reach out if you have an exciting role or project!
