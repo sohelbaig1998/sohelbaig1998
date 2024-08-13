@@ -23,9 +23,10 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 - **Litigation Mobile Application**: Developed a system for detecting and managing scraper errors, reducing failures by 90%.
 ---
 ## 📫 How to Reach Me
-- **Email:** [pinkleshparjapati@gmail.com](mailto:sohelbaig1998@gmail.com)
-- **LinkedIn:** [Pinklesh Parjapati](https://www.linkedin.com/in/sohel-baig-mirza-847402206/)
-- **GitHub:** [ppinklesh](https://github.com/sohelbaig1998)
+- **Email:** [sohelbaig1998@gmail.com](mailto:sohelbaig1998@gmail.com)
+- **LinkedIn:** [Sohel Baig Mirza](https://www.linkedin.com/in/sohel-baig-mirza-847402206/)
+- **LinkedIn:** [7427868337](tel:+7427868337)
+- **GitHub:** [sohelbaig1998](https://github.com/sohelbaig1998)
 ---
 ## 💼 Open to Opportunities
 I'm always open to exploring new opportunities, especially those involving Python, Django, FastAPI, and scalable backend systems. Feel free to reach out if you have an exciting role or project!
