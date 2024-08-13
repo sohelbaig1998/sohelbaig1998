@@ -19,8 +19,9 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 ---
 ## 🛠️ My Recent Projects
 - **Litigation Management System ([Legistrak](https://legistify.com/))**: Optimized and modernized the tech stack, improving the system's performance by 50%.
+- **Litigation Mobile Application**: Designed for efficient handling of legal cases with a highly responsive and scalable mobile API, significantly improving case management and performance.
 - **Web Crawler (Microservice)**: Spearheaded the migration to a microservices architecture, achieving a 90% improvement in system efficiency.
-- **Litigation Mobile Application**: Developed a system for detecting and managing scraper errors, reducing failures by 90%.
+  
 ---
 ## 📫 How to Reach Me
 - **Contact:** 
