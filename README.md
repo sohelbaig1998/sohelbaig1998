@@ -23,10 +23,12 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 - **Litigation Mobile Application**: Developed a system for detecting and managing scraper errors, reducing failures by 90%.
 ---
 ## 📫 How to Reach Me
-- **Email:** [sohelbaig1998@gmail.com](mailto:sohelbaig1998@gmail.com)
-- **Contact:** [7427868337](tel:+917427868337)
-- **LinkedIn:** [Sohel Baig Mirza](https://www.linkedin.com/in/sohel-baig-mirza-847402206/)
-- **GitHub:** [sohelbaig1998](https://github.com/sohelbaig1998)
+- **Contact:** 
+  - Email: <a href="mailto:sohelbaig1998@gmail.com" target="_blank">sohelbaig1998@gmail.com</a>
+  - Phone: <a href="tel:+917427868337">7427868337</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/sohel-baig-mirza-847402206/" target="_blank">Sohel Baig Mirza</a>
+- **GitHub:** <a href="https://github.com/sohelbaig1998" target="_blank">sohelbaig1998</a>
+
 
 ---
 ## 💼 Open to Opportunities
