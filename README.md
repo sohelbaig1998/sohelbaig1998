@@ -24,7 +24,7 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 ---
 ## 📫 How to Reach Me
 - **Email:** [sohelbaig1998@gmail.com](mailto:sohelbaig1998@gmail.com)
-- **Contact:** <a href="tel:+917427868337">7427868337</a>
+- **Contact:** [7427868337](tel:+917427868337)
 - **LinkedIn:** [Sohel Baig Mirza](https://www.linkedin.com/in/sohel-baig-mirza-847402206/)
 - **GitHub:** [sohelbaig1998](https://github.com/sohelbaig1998)
 ---
